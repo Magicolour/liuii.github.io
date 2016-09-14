@@ -1,6 +1,7 @@
 # 置顶信息  
 
 - 《`计算思维`》教学资源站点位于：[http://w.scse.hebut.edu.cn](http://w.scse.hebut.edu.cn)。本课程涉及到的OFFICE练习系统以及其他的相关工具都可以到该站点下载。  
+- 课后讨论可以到我的讨论区：[`Goto`](https://github.com/liuii/guestBook/issues)。  
 - 上机的周次安排：  
 
 > `高分子161/162/163`以下周次上机：4,7,9,11,13,15,17,19。上机机房是：9-811/9-813。  
