@@ -7,8 +7,11 @@
 ----
 # 置顶信息  
 
+- 课后作业需要看的书以本页面为准，上课的时候放错幻灯片了，Sorry。  
+- 设计资源导航推荐[`优秀网页设计`](http://hao.uisdc.com)、[图书推荐](http://hao.uisdc.com/book/)。  
+- 版式设计四个基本原则：`亲密`、`对齐`、`重复`、`对比`。  
 - 《`计算思维`》教学资源站点位于：[http://w.scse.hebut.edu.cn](http://w.scse.hebut.edu.cn)。本课程涉及到的OFFICE练习系统以及其他的相关工具都可以到该站点下载。  
-- 课后讨论可以到我的讨论区：[`Goto`](https://github.com/liuii/guestBook/issues)。  
+- 课后讨论可以到我的讨论区：[`Goto`](https://github.com/liuii/guestBook/issues)。 
 - 上机的周次安排：  
 
 > `高分子161/162/163`以下周次上机：4,7,9,11,13,15,17,19。上机机房是：9-811/9-813。  
