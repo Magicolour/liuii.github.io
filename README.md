@@ -61,7 +61,7 @@
 
 ----
 # 补充资料
-- 设计资源导航推荐[`优秀网页设计`](http://hao.uisdc.com)、[`图书推荐`](http://hao.uisdc.com/book/)。  
+- 设计资源导航推荐[`优秀网页设计`](http://hao.uisdc.com)、[`优设图书推荐`](http://hao.uisdc.com/book/)。  
 - 版式设计四个基本原则：`亲密`、`对齐`、`重复`、`对比`。  
 
 [`Back to top`](#目录)
