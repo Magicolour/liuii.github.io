@@ -7,6 +7,7 @@
 
 ----
 # 置顶信息  
+- **临时安排：**这周要去参加学术会议，因此本周的上机和上课由侯老师代课，上机的话继续做Office练习，上课的话侯老师给上一次干货满满的习题课。:)  
 - 作业的讲解我放到[这里](https://github.com/liuii/guestBook/tree/master/assignments2016)了。  
 - **计算机基础操作部分基本确定12周周末（11月19日和20日）考试，请各位同学加紧复习。**另外可以去[http://w.scse.hebut.edu.cn](http://w.scse.hebut.edu.cn)查询考试的时间和地点。但是我目前尚不知道何时可以查询 :(  
 - [`HebutMooc`](http://hebut.xuetangx.com)的学号已经导入完成了，现在可以去注册账号并选课了，选完之后就可以直接在外网看讲解视频了。  
