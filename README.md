@@ -58,6 +58,7 @@
 ----
 # 课后作业  
 - 作业的讲解我放到[这里](https://github.com/liuii/guestBook/tree/master/assignments2016)了。
+  - 垃圾邮件处理与贝叶斯的讲解看这里：[Here](https://github.com/liuii/guestBook/blob/master/assignments2016/spam.md)  
 - 阅读《Visual C++程序设计基础》一书的前三章。  
 - 顺序结构程序设计：
 ```
