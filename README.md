@@ -1,6 +1,7 @@
 # 非常重要的通知：
 - 尽快到[http://w.scse.hebut.edu.cn](http://w.scse.hebut.edu.cn)查询考试的时间和地点。不要耽误参加考试。
 - 如果查不到自己的考试信息，请将如下信息发到我的信箱：【学号、班级、姓名】，我的邮箱地址上课已经说过了。
+- 另外，计算思维部分的大作业19周之前交，题目在这里：[`计算思维`大作业](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)  
 
 # 目录
 1. [置顶信息](#置顶信息)  
