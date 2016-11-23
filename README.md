@@ -1,5 +1,6 @@
 # 非常重要的通知：
 - 绿色版vc6可以[`下载`](http://w.scse.hebut.edu.cn/download/VC6SP6.exe)  
+- 添加了《计算思维》练习作业，题目在这里：[`练习作业`](https://github.com/liuii/guestBook/blob/master/assignments2016/examSample.md)  
 - 计算思维部分的大作业19周之前交，题目在这里：[`计算思维大作业`](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)  
 - 更新了`实验作业`。
 
@@ -89,6 +90,8 @@
 4、建立一个程序，用户必须输入正确的六位数字密码才能使用这个程序。对程序没什么要求，可以是你已经编写过的程序，也可以是一个非常简单的程序，只在用户输入正确的口令时显示一条“You're in！”之类的消息。
 5、输入两个变量a和b，把大的值存到a，小的值存到b。
 ```
+
+- 《计算思维》练习作业，题目在这里：[`练习作业`](https://github.com/liuii/guestBook/blob/master/assignments2016/examSample.md)  
 
 - 最后的大作业，请移步[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)
 
