@@ -4,37 +4,41 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>Computation Thinking by liuii</title>
-
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
-    <script src="javascripts/scale.fix.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="stylesheets/github-dark.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
   <body>
-    <div class="wrapper">
+
       <header>
-        <h1 class="header">Computation Thinking</h1>
-        <p class="header">刘二大人的教学日志</p>
-
-
-
-        <ul>
-          <li><a class="buttons github" href="https://github.com/liuii">GitHub Profile</a></li>
-        </ul>
-
+        <h1>Computation Thinking</h1>
+        <p>刘二大人的教学日志</p>
       </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/liuii" class="button fork"><strong>View On GitHub</strong></a>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
       <section>
         <h1>
 <a id="非常重要的通知" class="anchor" href="#%E9%9D%9E%E5%B8%B8%E9%87%8D%E8%A6%81%E7%9A%84%E9%80%9A%E7%9F%A5" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>非常重要的通知：</h1>
 
 <ul>
-<li>尽快到<a href="http://w.scse.hebut.edu.cn">http://w.scse.hebut.edu.cn</a>查询考试的时间和地点。不要耽误参加考试。</li>
-<li>如果查不到自己的考试信息，请将如下信息发到我的信箱：【学号、班级、姓名】，我的邮箱地址上课已经说过了。</li>
 <li>另外，计算思维部分的大作业19周之前交，题目在这里：<a href="https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md"><code>计算思维</code>大作业</a><br>
 </li>
+<li>更新了<code>实验作业</code>。</li>
 </ul>
 
 <h1>
@@ -46,7 +50,8 @@
 </li>
 <li><a href="#%E5%AE%9E%E9%AA%8C%E4%BD%9C%E4%B8%9A">实验作业</a></li>
 <li>
-<a href="#%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A">课后作业</a> 有大量更新</li>
+<a href="#%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A">课后作业</a><br>
+</li>
 <li><a href="#%E6%88%90%E7%BB%A9%E7%BB%84%E6%88%90">成绩组成</a></li>
 <li><a href="#%E8%A1%A5%E5%85%85%E8%B5%84%E6%96%99">补充资料</a></li>
 </ol>
@@ -57,20 +62,7 @@
 <a id="置顶信息" class="anchor" href="#%E7%BD%AE%E9%A1%B6%E4%BF%A1%E6%81%AF" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>置顶信息</h1>
 
 <ul>
-<li>
-<strong>临时安排：</strong>这周要去参加学术会议，因此本周的上机和上课由侯老师代课，上机的话继续做Office练习，上课的话侯老师给上一次干货满满的习题课。:)<br>
-</li>
 <li>作业的讲解我放到<a href="https://github.com/liuii/guestBook/tree/master/assignments2016">这里</a>了。<br>
-</li>
-<li>
-<strong>计算机基础操作部分基本确定12周周末（11月19日和20日）考试，请各位同学加紧复习。</strong>另外可以去<a href="http://w.scse.hebut.edu.cn">http://w.scse.hebut.edu.cn</a>查询考试的时间和地点。但是我目前尚不知道何时可以查询 :(<br>
-</li>
-<li>
-<a href="http://hebut.xuetangx.com"><code>HebutMooc</code></a>的学号已经导入完成了，现在可以去注册账号并选课了，选完之后就可以直接在外网看讲解视频了。<br>
-</li>
-<li>课后作业需要看的书以本页面为准，上课的时候放错幻灯片了，Sorry。<br>
-</li>
-<li>《<code>计算思维</code>》教学资源站点位于：<a href="http://w.scse.hebut.edu.cn">http://w.scse.hebut.edu.cn</a>。本课程涉及到的OFFICE练习系统以及其他的相关工具都可以到该站点下载。<br>
 </li>
 <li>课后讨论可以到我的讨论区：<a href="https://github.com/liuii/guestBook/issues"><code>Goto</code></a>。 </li>
 <li>上机的周次安排：<br>
@@ -88,8 +80,6 @@
 </blockquote>
 
 <ul>
-<li>解释一句，因为机房是按照30人的标准班规格进行建设和规划的，但是现在据说一个标准班是35人，所以请一定要到指定的机房当中上机。第一次上机的位置自己选吧，我就不指定机器号了（因为确实做不到）。<br>
-</li>
 <li>上机一定要带一卡通！！！<br>
 </li>
 </ul>
@@ -141,6 +131,21 @@
 
 <ol>
 <li>继续练习Office软件的使用，可以通过阅读课本、实验书、练习软件、观看讲解视频等各种方式进行学习。 </li>
+</ol>
+
+<h3>
+<a id="第五次到最后一次实验内容" class="anchor" href="#%E7%AC%AC%E4%BA%94%E6%AC%A1%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%AE%9E%E9%AA%8C%E5%86%85%E5%AE%B9" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>第五次到最后一次实验内容</h3>
+
+<ol>
+<li>要带《Visual C++实验教程》，里面有关于VC环境的讲解和习题，以下简称“实验书”。<br>
+</li>
+<li>完成课后作业的验证，顺序结构6道题，选择结构4道题，稍后会加上循环结构的题目。<br>
+</li>
+<li>完成《实验书》上所有的实验范例和习题（当然，习题需要在课下先做完）。</li>
+<li>完成大作业：<a href="https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md"><code>Camel</code></a><br>
+</li>
+<li>上面四项全部完成了，才允许干别的事儿。<br>
+</li>
 </ol>
 
 <p><a href="#%E7%9B%AE%E5%BD%95"><code>Back to top</code></a></p>
@@ -228,10 +233,10 @@
 <p><a href="#%E7%9B%AE%E5%BD%95"><code>Back to top</code></a></p>
       </section>
       <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
       </footer>
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-		
+    
   </body>
 </html>
