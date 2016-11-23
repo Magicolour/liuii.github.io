@@ -1,5 +1,6 @@
 # 非常重要的通知：
-- 另外，计算思维部分的大作业19周之前交，题目在这里：[`计算思维`大作业](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)  
+- 绿色版vc6可以[`下载`](http://w.scse.hebut.edu.cn/download/VC6SP6.exe)  
+- 计算思维部分的大作业19周之前交，题目在这里：[`计算思维大作业`](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)  
 - 更新了`实验作业`。
 
 # 目录
