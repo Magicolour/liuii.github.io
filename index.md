@@ -1,6 +1,6 @@
 # 非常重要的通知：
-- `已经可以在教学网站[`http://w.scse.hebut.edu.cn`](http://w.scse.hebut.edu.cn)查询《计算思维》的期末考试安排了，请各位同学抓紧时间查询，有问题联系我。`  
-- 上机实验的实验室做出了些许调整，请各位同学注意置顶信息当中上机安排。  
+- **已经可以在教学网站[`http://w.scse.hebut.edu.cn`](http://w.scse.hebut.edu.cn)查询《计算思维》的期末考试安排了，请各位同学抓紧时间查询，有问题联系我。**
+- 上机实验的实验室做出了些许调整，请各位同学注意置顶信息当中上机安排。  
 - 在教学网站[`http://w.scse.hebut.edu.cn`](http://w.scse.hebut.edu.cn)的【计算思维课程资源】下添加了计算思维练习系统（说明：期末程序设计部分的三套模拟样题，因为程序设计需要人工评判，故系统不会给出分数及答案解析。仅供参考。），也可以直接[`下载`](http://w.scse.hebut.edu.cn/download/CTT2016.exe)  
 - 添加了[`随机数的获得`](https://github.com/liuii/guestBook/blob/master/assignments2016/random.md)，写`大作业`的时候需要用到。  
 - 绿色版vc6可以[`下载`](http://w.scse.hebut.edu.cn/download/VC6SP6.exe)   
