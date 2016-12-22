@@ -2,7 +2,7 @@ title: Computation Thinking
 description: 刘二大人的教学日志
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
