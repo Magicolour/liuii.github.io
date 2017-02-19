@@ -1,6 +1,2 @@
-# 课程结束  
-1. 查成绩请到教务处成绩查询网站。  
-2. 不要发邮件和我讨论成绩的问题，邮件内容涉及成绩的一律拉黑。  
-3. 有和课程内容相关的问题可以继续发邮件讨论。
-
-## 提前祝大家春节快乐 (￣▽￣)"
+# 实验作业  
+1. 第一次作业：[点这里](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)
