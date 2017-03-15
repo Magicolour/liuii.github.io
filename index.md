@@ -3,3 +3,4 @@
 第二周开始上机的时间和地点调整为：每周三上午第一大节，4楼DEFGH区上机。  
 # 实验作业  
 1. 第一次作业：[点这里](https://github.com/liuii/guestBook/blob/master/assignments2016/finalAssignment.md)，随机数的讲解[看这里](https://github.com/liuii/guestBook/blob/master/assignments2016/random.md)，示例程序：[Here](https://github.com/liuii/guestBook/blob/master/assignments2016/camel.cpp)。  
+2. 贪婪算法解决背包问题的课上范例：[看这里](https://github.com/liuii/guestBook/blob/master/assignments2016/packets.cpp)  
