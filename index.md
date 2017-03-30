@@ -6,4 +6,5 @@
 2. 贪婪算法解决背包问题的课上范例：[看这里](https://github.com/liuii/guestBook/blob/master/assignments2016/packets.cpp)  
 3. 课上导数的例子参看：[看这里](https://github.com/liuii/guestBook/blob/master/assignments2016/dsinx.cpp)，下面的图表使用的参数为：delta=1e-7，[0,2*pi]的区间共划分为1,000,000份，对应的图表如下：
 ![](https://github.com/liuii/guestBook/blob/master/assignments2016/dsinx.png?raw=true)
-上图中纵轴的单位是1e-8。
+上图中纵轴的单位是1e-8。  
+4. 线性搜索的例子参看[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/lineSearch.cpp)。二分搜索的例子参看这里[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/binarySearch.cpp)  
