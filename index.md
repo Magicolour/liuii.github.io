@@ -9,4 +9,5 @@
 上图中纵轴的单位是1e-8。  
 4. 线性搜索的例子参看[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/lineSearch.cpp)。二分搜索的例子参看这里[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/binarySearch.cpp)  
 5. 凯撒密码的例子参看：[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/caesar.cpp)。尝试编写一个统计用户输入的字符串中各个字母出现的频率（大小写不敏感）的程序，最后输出各个字母出现的频率（例如字母‘a'的频率就是字母’a'出现的次数除以字符串中字母的总数，要考虑到字符串里还有空格、标点之类的非字母字符）。  
-6. 课上讲的统计字母出现的频率以及与标准英文字母分布的相似性度量范例，参看[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/statisticChar.cpp)。  
+6. 课上讲的统计字母出现的频率以及与标准英文字母分布的相似性度量范例，参看[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/statisticChar.cpp)。  
+7. [数组分组排序的例子](https://github.com/liuii/guestBook/blob/master/assignments2016/funcAndPtr.cpp)和[字符串数组排序的例子](https://github.com/liuii/guestBook/blob/master/assignments2016/strings.cpp)。  
