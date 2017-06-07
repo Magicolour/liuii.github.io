@@ -12,3 +12,7 @@
 6. 课上讲的统计字母出现的频率以及与标准英文字母分布的相似性度量范例，参看[这里](https://github.com/liuii/guestBook/blob/master/assignments2016/statisticChar.cpp)。  
 7. [数组分组排序的例子](https://github.com/liuii/guestBook/blob/master/assignments2016/funcAndPtr.cpp)和[字符串数组排序的例子](https://github.com/liuii/guestBook/blob/master/assignments2016/strings.cpp)。  
 8. [结构体排序的例子](https://github.com/liuii/guestBook/blob/master/assignments2016/struct.cpp)。  
+9. [线性代数——矩阵乘法](https://github.com/liuii/guestBook/blob/master/assignments2016/basicLA.cpp)。  
+10. [线性代数-用一维数组传递矩阵](https://github.com/liuii/guestBook/blob/master/assignments2016/linearAlgebraLib.cpp)。 
+11. [利用定义求定积分](https://github.com/liuii/guestBook/blob/master/assignments2016/inter.cpp)。  
+12. [概率论——仿真](https://github.com/liuii/guestBook/blob/master/assignments2016/carOrGoat.cpp)。  
